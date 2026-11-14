@@ -47,7 +47,6 @@ aside img {
 main img {
     width: 150px;
     height: auto;
-    /* Couldn't find proper values to set border, padding, and box-shadow to.*/
     border: 1px solid black;
     padding: 2px;
     box-shadow: 0 0 30px gray;
