@@ -49,7 +49,6 @@ main img {
     width: 150px;
     height: auto;
     border: auto;
-    /* Couldn't find proper values to set  border, padding, and box-shadow to.*/
     padding: auto;
     box-shadow: auto;
 }
